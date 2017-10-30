@@ -1,5 +1,3 @@
 language: ruby
-ruby:
-  - "2.1.5"
 
 script: ruby tc_simple_number.rb
